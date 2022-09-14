@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **pranjal9prasad@gmail.com**
 
-<a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true"></a>
 
 
 <h3 align="left">Connect with me:</h3>
