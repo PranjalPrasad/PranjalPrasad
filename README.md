@@ -3,6 +3,7 @@
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalprasad&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalprasad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalprasad" alt="pranjalprasad" /></a> </p>
