@@ -3,7 +3,7 @@
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" style="width: 280px;
-				height: 210px;
+				height: 230px;
 				border-radius: 50%;"  alt="pranjal" >
 <br>
 <br>
