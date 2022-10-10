@@ -5,10 +5,11 @@
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" style="width: 280px;
 				height: 230px;
 				border-radius: 50%;"  alt="pranjal" >
-<br>
-<br>
-<hr>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalprasad&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalprasad" /> </p>
+
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalprasad" alt="pranjalprasad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
