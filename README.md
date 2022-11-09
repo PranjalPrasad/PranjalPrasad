@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranjal Prasad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" style="width: 280px;
+<!--<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" style="width: 280px;
 				height: 230px;
-				border-radius: 50%;"  alt="pranjal" >
+				border-radius: 50%;"  alt="pranjal" >-->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalprasad&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalprasad" /> </p>
